@@ -1,4 +1,4 @@
-Step 1 is to create few qr codes for each client/student using qr_maker.py
+Step 1 is to create a qr code for each client/student using qr_maker.py
 Step 2 is to open student-verific.py on any text editor of your choice
 Step 3 is to fill out the list 'students' with the names of all the students/clients (i will make this simpler in an later update)
 

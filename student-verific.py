@@ -6,7 +6,7 @@ from pyzbar.pyzbar import decode
 
 myfile = open('attendence.csv', 'a+')
 students = [] # TYPE OUT YOUR OWN NAMES HERE LIKE SO: ['name1', 'name2']
-names = []
+names = [] # dont mind this it will fill up by its own
 
 # vid capture
 
